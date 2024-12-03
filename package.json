@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"forge-std": "github:foundry-rs/forge-std",
+		"solady": "^0.0.277"
+	}
+}

@@ -1,0 +1,25 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  forge-std:
+    specifier: github:foundry-rs/forge-std
+    version: github.com/foundry-rs/forge-std/83c5d212a01f8950727da4095cdfe2654baccb5b
+  solady:
+    specifier: ^0.0.277
+    version: 0.0.277
+
+packages:
+
+  /solady@0.0.277:
+    resolution: {integrity: sha512-C8P4U337yDAmGz13TKg5ZnB8k7MmATgZpeklA8gFuXH8o0nfsNFVMTRRe8SV/XIIz7QpgGi0lSjN2bRhcfhVHw==}
+    dev: false
+
+  github.com/foundry-rs/forge-std/83c5d212a01f8950727da4095cdfe2654baccb5b:
+    resolution: {tarball: https://codeload.github.com/foundry-rs/forge-std/tar.gz/83c5d212a01f8950727da4095cdfe2654baccb5b}
+    name: forge-std
+    version: 1.9.4
+    dev: false
